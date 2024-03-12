@@ -1,14 +1,10 @@
-HTTrack3.49-2 launched on Tue, 12 Mar 2024 16:07:51 at https://design-vary-312059.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
-(webhttrack -q -%i -iC2 https://design-vary-312059.framer.app/ -O "/Users/miguelreng/websites/miguelreng.com" -n -%P -p7 -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+HTTrack3.49-2 launched on Tue, 12 Mar 2024 16:32:41 at https://design-vary-312059.framer.app/writing/notes/los-indolentes-del-mundial +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://design-vary-312059.framer.app/writing/notes/los-indolentes-del-mundial -O "/Users/miguelreng/websites/miguelreng.com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-16:09:23	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://design-vary-312059.framer.app/)
-16:17:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/hCz8NvNXYZtbYFdqSY2IzL2D8rQ1q8GX4NsJbcBXXwo.YBXZ2MLW.mjs
-16:21:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/MLfvQwVooQCGWiKa3dRT/daSYlTERjmaH8d111ZWX/oK3U3LQLw.js
-
-HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 25 seconds : 129 links scanned, 165 files written (31236412 bytes overall), 130 files updated [22453934 bytes received at 27893 bytes/sec], 8409551 bytes transferred using HTTP compression in 73 files, ratio 12%, 2.7 requests per connection
-(1 errors, 2 warnings, 0 messages)
+16:32:44	Error: 	"Not Found" (404) at link https://design-vary-312059.framer.app/writing/notes/los-indolentes-del-mundial (from primary/primary)
+16:32:44	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
