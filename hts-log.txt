@@ -1,10 +1,105 @@
-HTTrack3.49-2 launched on Tue, 12 Mar 2024 16:32:41 at https://design-vary-312059.framer.app/writing/notes/los-indolentes-del-mundial +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
-(webhttrack -q -%i -w https://design-vary-312059.framer.app/writing/notes/los-indolentes-del-mundial -O "/Users/miguelreng/websites/miguelreng.com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+HTTrack3.49-2 launched on Tue, 12 Mar 2024 16:45:24 at https://design-vary-312059.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://design-vary-312059.framer.app/ -O "/Users/miguelreng/websites/miguelreng.com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-16:32:44	Error: 	"Not Found" (404) at link https://design-vary-312059.framer.app/writing/notes/los-indolentes-del-mundial (from primary/primary)
-16:32:44	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
+16:45:50	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://design-vary-312059.framer.app/)
+16:47:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/f01Id1Sgipk4KleDDMwuICIoPxd8ET12xuMb6vMf9sg.M5YVMN5Y.mjs
+16:47:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/chunk-EWON6J3N.mjs
+16:47:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/chunk-5HBEHJDN.mjs
+16:47:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/chunk-RLHTY6NG.mjs
+16:47:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/c4ieUocX9iYtHeIYmNjQSPeTk.png
+16:48:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dPyjLWwHaMrdwUW14HL2IZVm04.png
+16:48:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/5wzjbiRzxEbeO3o4DBi4Myo4c.png
+16:48:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/bGGhSTgtHGKOtVEEtWLGI0a5Ew.png
+16:48:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/zbhou2kVBMiqlnhAHLnBgcuF_Yx_ZOrRL2k8WqUMti0.NOTUA6EG.mjs
+16:48:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/AC8QnwBNSoPOG5sQf2wnHOjdmE.jpg?scale-down-to=2048
+16:48:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/dpvoaeD4RwzdRpA6LBNHo5oLI.jpg?scale-down-to=2048
+16:48:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/znJWJzBzl9cwodf2NQYyxBt1TB4.jpg?scale-down-to=2048
+16:48:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/96fi2Y1s8FIjPy5Pow5rv1oBEUQ.jpg?scale-down-to=2048
+16:48:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/QSON8MC7wyo7KUOiW0GPIjQtC04.jpg?scale-down-to=4096
+16:48:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/20LxYDn03hVDtt0oHFFpSscNZ9U.jpg?scale-down-to=4096
+16:48:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3hggzy2sULqFaGSqcAfGPye5120.jpg
+16:49:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/fwAmV1nvqsv5qE2fkvKkojaRfU.jpg?scale-down-to=2048
+16:49:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/CEv6WuUg8OH9KYUB7tKMtSJKCbQ.jpg?scale-down-to=2048
+16:49:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/0rgcYx6JKDbPILCBxRUz0BRjs.jpg?scale-down-to=2048
+16:49:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/T0dd3ORcsjrGnmgifKOzoXgFqJ8.jpg?scale-down-to=2048
+16:49:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/xyFzd4qQ0iyAjxaUZ32c7Qn1X8.jpg?scale-down-to=2048
+16:49:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3iHShhJq8wVxhPi479kL01zMNI.jpg?scale-down-to=2048
+16:49:25	Warning: 	HTML file (163221 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/30-poems-about-life
+16:49:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/uxUO2NPdUUrNL6PJgMCX11b_kJBfkyZFhtWj4OUKajo.RQ2EGHYV.mjs
+16:49:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/DAwfJMGmKcQ9dmFkJHr1ZQsS0I.png
+16:49:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/pI33Q2AVoigXqOEJXpiLWwvcxp0.jpg
+16:49:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/GCmTs69OcS9gGWcv51ZNQCxi2mU.jpg
+16:49:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/KwTMOUEAwoh4mcSsrxljqE2TVGw.jpg
+16:49:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/3iHShhJq8wVxhPi479kL01zMNI.jpg
+16:49:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/rXFADi8fDoMLPvXycuvwQHCcuAk.png
+16:49:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/lEZTiOTaWM6TIzhTZOqFNlqdfFo.jpg
+16:49:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/rjpaxlaPzCtcHEz1HC97NpDN5E.jpg
+16:49:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/mt7mLOVveayDHXdYkmXey1d2PE.jpg
+16:49:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/p2tZKT55GUqXG1rmOPGGJwoII.jpg
+16:49:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/VuGd9oI8qgxlJCQpnwXNoI2E.jpg
+16:49:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/oBlZL8s8nECEKK5R7PENs3Jwho.jpg
+16:49:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/phjPLDOMBJyzkRLUBGKXzJBBn8Y.jpg
+16:49:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/uYAZOiQPuKI7ZC4NrX28RovGMBc.jpg
+16:49:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/KNAAOVk9xLqZfUb2v6t5W5UWFE.jpg
+16:49:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/zPsJXu6wrs77SRmduJ7pHNuxoXM.jpg
+16:49:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/8V2uYfBiqU7rFnAxaDkK3oZcU.jpg
+16:49:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/xbaKDs2oThpDFlQtFrItzOVyU.jpg
+16:49:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/TcDW6mM2CmXsv6jxxaOKtci3Y94.png
+16:49:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/6YCu8oaFIM3XGThWneAqIWx8g8.jpg
+16:49:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/fCwY2MFdjXWmjlbW7GLGGgPzqo.jpg
+16:49:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/Tx1NZIowD5U1VBRcFFcOFSZKM.jpg
+16:49:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/IafuUgd51EExmxaXyGbmAZzjL8Q.jpg
+16:49:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/HKRhjFDezYYTXIsOl9ENTonFj4.jpg
+16:49:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/xkG0UCHjEFSQufLV3LuHaGCAdI.jpg
+16:50:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/gG6vQzZrgICYi13j4kzH4mjSvQ.jpg
+16:50:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/0PsK2GsxUV8pvUGMjhwZ7WpeU.jpg
+16:50:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/MdigfX7FboESmQW8MPRkgl7MviM.jpg
+16:50:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/QLlveGLfqDwqJXNtVTGfD52vyRc.jpg
+16:50:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/p2VWHJj1uAc8moaNDHAmb1SIU.jpg
+16:50:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/sites/7A4a0iHQYhRcRP4wfjx7Oo/LzkGJ-La8SCKBJXSsL9lszNwhpzBhoHn_DZhbqDdm4M.SDOGC5RS.mjs
+16:50:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/OHC3n5QICcun9GmhbM4vSlUrMw.png
+16:50:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/a90RlmpHNhUP0EKogn3RpoZrg4.png
+16:50:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/images/fTkZIb7Iv4dAd9xvmthCfZnv3s.png
+16:50:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/GZt4hXfqqFJiyhTSftMG/3H9cHcSeaxsUoQOmRhUG/MOSwCGwxw.js
+16:50:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/QtidQ12XkUJFcvX43BRA/NhNgYwyJBHDyhjT25qSO/HeW7GCIiI.js
+16:50:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/MLfvQwVooQCGWiKa3dRT/JKGbmSgn4BVSIszcRiWE/oK3U3LQLw.js
+16:50:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/uewQKs1ujWRoFrqF8ndW/whhot8SVxIjvekGH3nYd/PH2AEMnrH.js
+16:50:13	Warning: 	HTML file (128064 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/de-que-seria
+16:50:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/wLzpeSCdAVQiz8OnXF1i/EtqJeLTwXZEQCSvXDszm/oaXNT11ol.js
+16:50:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://framerusercontent.com/modules/wlHTcMoXe4Gg9MwTcIaw/XolDBhELoWiSpjrqSK3N/sgNyCNR3v.js
+16:50:17	Warning: 	HTML file (128130 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/el-alma
+16:50:19	Warning: 	HTML file (128374 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/sin-las
+16:50:21	Warning: 	HTML file (129117 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/matematicas
+16:50:24	Warning: 	HTML file (128294 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/que-idiota
+16:50:26	Warning: 	HTML file (128019 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/el-amor-murio
+16:50:28	Warning: 	HTML file (128276 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/acabo
+16:50:30	Warning: 	HTML file (127779 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/por-que
+16:50:32	Warning: 	HTML file (127863 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/una-enfermedad
+16:50:34	Warning: 	HTML file (128408 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/con-ella
+16:50:36	Warning: 	HTML file (128292 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/poema
+16:50:38	Warning: 	HTML file (128298 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/una-cancion-de-salsa
+16:50:41	Warning: 	HTML file (128094 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/nunca
+16:50:43	Warning: 	HTML file (127591 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/lluvia
+16:50:45	Warning: 	HTML file (128607 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/testigo
+16:50:47	Warning: 	HTML file (128721 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/presencia
+16:50:50	Warning: 	HTML file (128116 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/receta
+16:50:52	Warning: 	HTML file (128272 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/cura
+16:50:54	Warning: 	HTML file (127982 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/perdido
+16:50:56	Warning: 	HTML file (128340 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/tiempo
+16:50:59	Warning: 	HTML file (128106 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/rico
+16:51:01	Warning: 	HTML file (128084 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/mente-y-alma
+16:51:03	Warning: 	HTML file (127716 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/ciencia
+16:51:04	Warning: 	HTML file (128225 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/perdon
+16:51:06	Warning: 	HTML file (128193 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/dualidad
+16:51:09	Warning: 	HTML file (127688 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/hoy
+16:51:11	Warning: 	HTML file (128330 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/te-amo
+16:51:13	Warning: 	HTML file (128225 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/poeta
+16:51:15	Warning: 	HTML file (128174 bytes) retransferred due to lack of cache: https://design-vary-312059.framer.app/writing/lo-que-poseo
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 54 seconds : 131 links scanned, 220 files written (51739317 bytes overall) [46053240 bytes received at 130093 bytes/sec], 7079943 bytes transferred using HTTP compression in 72 files, ratio 16%, 4.3 requests per connection
+(1 errors, 93 warnings, 0 messages)
